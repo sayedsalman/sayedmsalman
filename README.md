@@ -66,12 +66,7 @@
   <a href="https://banshkhalitoday.com" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Live-Site-green?style=for-the-badge"/></a>
 </div>
 
-<div style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width: 320px; padding: 20px;">
-  <h3>Sentinel Trust Bank</h3>
-  <p>Full-fledged virtual bank with multi-gateway transactions, charts, notifications, and admin dashboard.</p>
-  <p><strong>Tech:</strong> React, Node.js, Express, MongoDB, Firebase, Tailwind, Material UI</p>
-  <a href="https://salman.rfnhsc.com/bank" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Live-Site-green?style=for-the-badge"/></a>
-</div>
+
 
 <div style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width: 320px; padding: 20px;">
   <h3>Ryakihs</h3>
